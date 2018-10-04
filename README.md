@@ -1,6 +1,6 @@
 # SilverStripe GridfieldToggleVisibility
 
-Simple experimantal Module to provide Gridfeld Actions to easy toggle a Boolean Field (eg "Hidden", or "Active")
+Simple experimental Module to provide Gridfeld Actions to easy toggle a Boolean Field (eg "Hidden", or "Active")
 
 Private project, no help/support provided
 
