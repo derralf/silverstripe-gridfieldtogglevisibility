@@ -1,0 +1,3 @@
+.gridfield-button-toggle-visibility.record-is-visible[class*=font-icon-]:before {color: #368b39;}
+.gridfield-button-toggle-visibility.record-not-visible[class*=font-icon-]:before {color: #da273b;}
+.gridfield-button-toggle-visibility.record-has-warning[class*=font-icon-]:before {color: #ffc107;}

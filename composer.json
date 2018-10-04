@@ -1,0 +1,30 @@
+{
+  "name": "derralf/silverstripe-gridfieldtogglevisibility",
+  "description": "quickly toggle hidden status from gridfield",
+  "type": "silverstripe-vendormodule",
+  "keywords": [
+    "silverstripe",
+    "gridfield"
+  ],
+  "license": "BSD-3-Clause",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "silverstripe/vendor-plugin": "^1.0",
+    "silverstripe/framework": "~4.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.x-dev"
+    },
+    "expose": [
+      "css"
+    ]
+  },
+  "autoload": {
+    "psr-4": {
+      "Derralf\\GridFieldToggleVisibility\\": "src/"
+    }
+  }
+
+}
