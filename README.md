@@ -13,7 +13,7 @@ Private project, no help/support provided
 
 - Install the module via Composer
   ```
-  composer require silverstripe-gridfieldtogglevisibility
+  composer require derralf/silverstripe-gridfieldtogglevisibility
   ```
 
 ## Requirements
