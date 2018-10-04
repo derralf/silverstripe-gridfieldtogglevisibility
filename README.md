@@ -8,8 +8,6 @@ Private project, no help/support provided
 
 * SilverStripe ^4.1
 
-Images/Includes/Title.ss` to your needs when using StyledTitle from derralf/elemental-styling.
-
 
 ## Installation
 
