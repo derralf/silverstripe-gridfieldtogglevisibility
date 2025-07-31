@@ -10,12 +10,12 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "silverstripe/vendor-plugin": "^1.0",
-    "silverstripe/framework": "~4.0"
+      "silverstripe/framework": "^5",
+      "silverstripe/vendor-plugin": "^2"
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "1.x-dev"
+      "dev-master": "2.x-dev"
     },
     "expose": [
       "css"
