@@ -6,7 +6,7 @@ Private project, no help/support provided
 
 ## Requirements
 
-* SilverStripe ^5
+* SilverStripe ^5 || ^6
 
 
 ## Installation
